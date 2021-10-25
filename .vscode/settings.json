@@ -1,0 +1,9 @@
+{
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "*.php": "php",
+    "cassert": "cpp",
+    "iosfwd": "cpp",
+    "algorithm": "cpp"
+  }
+}
